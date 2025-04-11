@@ -22,3 +22,7 @@ Thumbs.db
 
 # Maven Wrapper
 /.mvn/
+
+
+#This will ignore the bin directory and everything inside it.
+/bin/
